@@ -1,0 +1,77 @@
+[2015-07-30 15:43:01,121] DEBUG - wire >> "POST /services/sirportly HTTP/1.1[\r][\n]"
+[2015-07-30 15:43:01,122] DEBUG - wire >> "Host: thulasi-thinkpad-t540p:8280[\r][\n]"
+[2015-07-30 15:43:01,122] DEBUG - wire >> "Connection: keep-alive[\r][\n]"
+[2015-07-30 15:43:01,122] DEBUG - wire >> "Content-Length: 269[\r][\n]"
+[2015-07-30 15:43:01,122] DEBUG - wire >> "CSP: active[\r][\n]"
+[2015-07-30 15:43:01,122] DEBUG - wire >> "Action: urn:addContactMethod[\r][\n]"
+[2015-07-30 15:43:01,122] DEBUG - wire >> "Cache-Control: no-cache[\r][\n]"
+[2015-07-30 15:43:01,122] DEBUG - wire >> "Origin: chrome-extension://fdmmgilgnpjigdojojpjoooidkmcomcm[\r][\n]"
+[2015-07-30 15:43:01,122] DEBUG - wire >> "User-Agent: Mozilla/5.0 (X11; Linux i686 (x86_64)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.132 Safari/537.36[\r][\n]"
+[2015-07-30 15:43:01,122] DEBUG - wire >> "Content-Type: application/json[\r][\n]"
+[2015-07-30 15:43:01,122] DEBUG - wire >> "Accept: */*[\r][\n]"
+[2015-07-30 15:43:01,122] DEBUG - wire >> "Accept-Encoding: gzip, deflate[\r][\n]"
+[2015-07-30 15:43:01,122] DEBUG - wire >> "Accept-Language: en-US,en;q=0.8[\r][\n]"
+[2015-07-30 15:43:01,122] DEBUG - wire >> "[\r][\n]"
+[2015-07-30 15:43:01,122] DEBUG - wire >> "{[\n]"
+[2015-07-30 15:43:01,122] DEBUG - wire >> "  "apiUrl":"https://thulasika.sirportly.com",[\n]"
+[2015-07-30 15:43:01,123] DEBUG - wire >> "  "apiToken":"0d00b7cc-8c0c-98f8-1a94-c5c7a670cea8",[\n]"
+[2015-07-30 15:43:01,123] DEBUG - wire >> "  "apiSecret":"bwl1hdpqbsddpsriexy8f3voomhe13tw5x6zxukhuyja9mkmxv",[\n]"
+[2015-07-30 15:43:01,123] DEBUG - wire >> "  "contact" : "4062433",[\n]"
+[2015-07-30 15:43:01,123] DEBUG - wire >> "  "contactMethodType" : "telephone",[\n]"
+[2015-07-30 15:43:01,123] DEBUG - wire >> "  "contactData" : "+94782449770"[\n]"
+[2015-07-30 15:43:01,123] DEBUG - wire >> "[0x9][\n]"
+[2015-07-30 15:43:01,123] DEBUG - wire >> "}[\n]"
+[2015-07-30 15:43:01,123] DEBUG - wire >> "[\n]"
+[2015-07-30 15:43:01,126] ERROR - SynapseJsonPath #stringValueOf. Error evaluating JSON Path <$.contactName>. Returning empty result. Error>>> invalid path
+[2015-07-30 15:43:01,127] ERROR - SynapseJsonPath #stringValueOf. Error evaluating JSON Path <$.contactReference>. Returning empty result. Error>>> invalid path
+[2015-07-30 15:43:01,128] ERROR - SynapseJsonPath #stringValueOf. Error evaluating JSON Path <$.company>. Returning empty result. Error>>> invalid path
+[2015-07-30 15:43:01,128] ERROR - SynapseJsonPath #stringValueOf. Error evaluating JSON Path <$.priority>. Returning empty result. Error>>> invalid path
+[2015-07-30 15:43:01,129] ERROR - SynapseJsonPath #stringValueOf. Error evaluating JSON Path <$.page>. Returning empty result. Error>>> invalid path
+[2015-07-30 15:43:01,129] ERROR - SynapseJsonPath #stringValueOf. Error evaluating JSON Path <$.query>. Returning empty result. Error>>> invalid path
+[2015-07-30 15:43:01,130] ERROR - SynapseJsonPath #stringValueOf. Error evaluating JSON Path <$.limit>. Returning empty result. Error>>> invalid path
+[2015-07-30 15:43:01,131] ERROR - SynapseJsonPath #stringValueOf. Error evaluating JSON Path <$.types>. Returning empty result. Error>>> invalid path
+[2015-07-30 15:43:01,132] ERROR - SynapseJsonPath #stringValueOf. Error evaluating JSON Path <$.isDefault>. Returning empty result. Error>>> invalid path
+[2015-07-30 15:43:01,133] ERROR - SynapseJsonPath #stringValueOf. Error evaluating JSON Path <$.user>. Returning empty result. Error>>> invalid path
+[2015-07-30 15:43:01,134] ERROR - SynapseJsonPath #stringValueOf. Error evaluating JSON Path <$.isRetrieveTimers>. Returning empty result. Error>>> invalid path
+[2015-07-30 15:43:01,134] ERROR - SynapseJsonPath #stringValueOf. Error evaluating JSON Path <$.filter>. Returning empty result. Error>>> invalid path
+[2015-07-30 15:43:01,135] ERROR - SynapseJsonPath #stringValueOf. Error evaluating JSON Path <$.conditions>. Returning empty result. Error>>> invalid path
+[2015-07-30 15:43:01,135] ERROR - SynapseJsonPath #stringValueOf. Error evaluating JSON Path <$.subject>. Returning empty result. Error>>> invalid path
+[2015-07-30 15:43:01,135] ERROR - SynapseJsonPath #stringValueOf. Error evaluating JSON Path <$.status>. Returning empty result. Error>>> invalid path
+[2015-07-30 15:43:01,136] ERROR - SynapseJsonPath #stringValueOf. Error evaluating JSON Path <$.assignedUser>. Returning empty result. Error>>> invalid path
+[2015-07-30 15:43:01,136] ERROR - SynapseJsonPath #stringValueOf. Error evaluating JSON Path <$.brand>. Returning empty result. Error>>> invalid path
+[2015-07-30 15:43:01,136] ERROR - SynapseJsonPath #stringValueOf. Error evaluating JSON Path <$.department>. Returning empty result. Error>>> invalid path
+[2015-07-30 15:43:01,136] ERROR - SynapseJsonPath #stringValueOf. Error evaluating JSON Path <$.team>. Returning empty result. Error>>> invalid path
+[2015-07-30 15:43:01,137] ERROR - SynapseJsonPath #stringValueOf. Error evaluating JSON Path <$.contactMethodData>. Returning empty result. Error>>> invalid path
+[2015-07-30 15:43:01,137] ERROR - SynapseJsonPath #stringValueOf. Error evaluating JSON Path <$.sortBy>. Returning empty result. Error>>> invalid path
+[2015-07-30 15:43:01,137] ERROR - SynapseJsonPath #stringValueOf. Error evaluating JSON Path <$.orderBy>. Returning empty result. Error>>> invalid path
+[2015-07-30 15:43:01,137] ERROR - SynapseJsonPath #stringValueOf. Error evaluating JSON Path <$.departmentId>. Returning empty result. Error>>> invalid path
+[2015-07-30 15:43:01,137] ERROR - SynapseJsonPath #stringValueOf. Error evaluating JSON Path <$.ticketReference>. Returning empty result. Error>>> invalid path
+[2015-07-30 15:43:01,137] ERROR - SynapseJsonPath #stringValueOf. Error evaluating JSON Path <$.message>. Returning empty result. Error>>> invalid path
+[2015-07-30 15:43:01,137] ERROR - SynapseJsonPath #stringValueOf. Error evaluating JSON Path <$.isAuthenticated>. Returning empty result. Error>>> invalid path
+[2015-07-30 15:43:01,138] ERROR - SynapseJsonPath #stringValueOf. Error evaluating JSON Path <$.postedAt>. Returning empty result. Error>>> invalid path
+[2015-07-30 15:43:01,458] ERROR - TargetHandler I/O error: Received fatal alert: handshake_failure
+javax.net.ssl.SSLException: Received fatal alert: handshake_failure
+	at sun.security.ssl.Alerts.getSSLException(Alerts.java:208)
+	at sun.security.ssl.SSLEngineImpl.fatal(SSLEngineImpl.java:1639)
+	at sun.security.ssl.SSLEngineImpl.fatal(SSLEngineImpl.java:1607)
+	at sun.security.ssl.SSLEngineImpl.recvAlert(SSLEngineImpl.java:1776)
+	at sun.security.ssl.SSLEngineImpl.readRecord(SSLEngineImpl.java:1068)
+	at sun.security.ssl.SSLEngineImpl.readNetRecord(SSLEngineImpl.java:890)
+	at sun.security.ssl.SSLEngineImpl.unwrap(SSLEngineImpl.java:764)
+	at javax.net.ssl.SSLEngine.unwrap(SSLEngine.java:624)
+	at org.apache.http.nio.reactor.ssl.SSLIOSession.doUnwrap(SSLIOSession.java:228)
+	at org.apache.http.nio.reactor.ssl.SSLIOSession.doHandshake(SSLIOSession.java:263)
+	at org.apache.http.nio.reactor.ssl.SSLIOSession.isAppInputReady(SSLIOSession.java:391)
+	at org.apache.http.impl.nio.reactor.AbstractIODispatch.inputReady(AbstractIODispatch.java:119)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.readable(BaseIOReactor.java:159)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.processEvent(AbstractIOReactor.java:338)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.processEvents(AbstractIOReactor.java:316)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.execute(AbstractIOReactor.java:277)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.execute(BaseIOReactor.java:105)
+	at org.apache.http.impl.nio.reactor.AbstractMultiworkerIOReactor$Worker.run(AbstractMultiworkerIOReactor.java:586)
+	at java.lang.Thread.run(Thread.java:745)
+[2015-07-30 15:43:01,463]  WARN - EndpointContext Endpoint : AnonymousEndpoint will be marked SUSPENDED as it failed
+[2015-07-30 15:43:01,464]  WARN - EndpointContext Suspending endpoint : AnonymousEndpoint - last suspend duration was : 30000ms and current suspend duration is : 30000ms - Next retry after : Thu Jul 30 15:43:31 IST 2015
+[2015-07-30 15:43:01,465]  INFO - LogMediator To: https://thulasika.sirportly.com/api/v2/contacts/add_contact_method, MessageID: urn:uuid:868aadab-8db5-42f3-86b7-293dedbf31f4, Direction: request, MESSAGE = Executing default 'fault' sequence, ERROR_CODE = 101500, ERROR_MESSAGE = Error in Sender, Payload: {"data":"+94782449770", "contact":"4062433", "method_type":"telephone"}
+
+
